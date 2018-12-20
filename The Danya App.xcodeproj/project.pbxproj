@@ -7,14 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C3C850B1F664816006760BD /* SoundboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3C850A1F664816006760BD /* SoundboardViewController.swift */; };
+		7C3C85101F664DDB006760BD /* Danya1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C850F1F664DDB006760BD /* Danya1.mp3 */; };
+		7C3C85171F66511B006760BD /* Danya2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85121F66511B006760BD /* Danya2.mp3 */; };
+		7C3C85181F66511B006760BD /* Danya3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85131F66511B006760BD /* Danya3.mp3 */; };
+		7C3C85191F66511B006760BD /* Danya4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85141F66511B006760BD /* Danya4.mp3 */; };
+		7C3C851A1F66511B006760BD /* Danya5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85151F66511B006760BD /* Danya5.mp3 */; };
+		7C3C851B1F66511B006760BD /* Danya6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85161F66511B006760BD /* Danya6.mp3 */; };
+		7C3C851D1F6B7AFF006760BD /* CustomTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3C851C1F6B7AFF006760BD /* CustomTitleLabel.swift */; };
+		7C3C85291F6B8FB8006760BD /* Danya8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C85281F6B8FB8006760BD /* Danya8.mp3 */; };
+		7C3C852B1F6B9015006760BD /* Danya7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C852A1F6B9015006760BD /* Danya7.mp3 */; };
+		7C3C852D1F6B96D7006760BD /* DanyaMadnessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C3C852C1F6B96D7006760BD /* DanyaMadnessViewController.swift */; };
+		7C3C852F1F6BB860006760BD /* Danya9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7C3C852E1F6BB860006760BD /* Danya9.mp3 */; };
 		7CCADDA61F634C5F00B1B7E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCADDA51F634C5F00B1B7E2 /* AppDelegate.swift */; };
 		7CCADDA81F634C5F00B1B7E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCADDA71F634C5F00B1B7E2 /* ViewController.swift */; };
 		7CCADDAB1F634C5F00B1B7E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CCADDA91F634C5F00B1B7E2 /* Main.storyboard */; };
 		7CCADDAD1F634C5F00B1B7E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CCADDAC1F634C5F00B1B7E2 /* Assets.xcassets */; };
 		7CCADDB01F634C5F00B1B7E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CCADDAE1F634C5F00B1B7E2 /* LaunchScreen.storyboard */; };
+		7CCADDB81F63544400B1B7E2 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCADDB71F63544400B1B7E2 /* RecordSoundsViewController.swift */; };
+		7CCADDBA1F63550300B1B7E2 /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCADDB91F63550300B1B7E2 /* RecordedAudio.swift */; };
+		7CCADDBC1F63586900B1B7E2 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCADDBB1F63586900B1B7E2 /* PlaySoundsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C3C850A1F664816006760BD /* SoundboardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundboardViewController.swift; sourceTree = "<group>"; };
+		7C3C850F1F664DDB006760BD /* Danya1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya1.mp3; sourceTree = "<group>"; };
+		7C3C85121F66511B006760BD /* Danya2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya2.mp3; sourceTree = "<group>"; };
+		7C3C85131F66511B006760BD /* Danya3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya3.mp3; sourceTree = "<group>"; };
+		7C3C85141F66511B006760BD /* Danya4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya4.mp3; sourceTree = "<group>"; };
+		7C3C85151F66511B006760BD /* Danya5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya5.mp3; sourceTree = "<group>"; };
+		7C3C85161F66511B006760BD /* Danya6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya6.mp3; sourceTree = "<group>"; };
+		7C3C851C1F6B7AFF006760BD /* CustomTitleLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTitleLabel.swift; sourceTree = "<group>"; };
+		7C3C85281F6B8FB8006760BD /* Danya8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya8.mp3; sourceTree = "<group>"; };
+		7C3C852A1F6B9015006760BD /* Danya7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya7.mp3; sourceTree = "<group>"; };
+		7C3C852C1F6B96D7006760BD /* DanyaMadnessViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DanyaMadnessViewController.swift; sourceTree = "<group>"; };
+		7C3C852E1F6BB860006760BD /* Danya9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Danya9.mp3; sourceTree = "<group>"; };
 		7CCADDA21F634C5F00B1B7E2 /* The Danya App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "The Danya App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CCADDA51F634C5F00B1B7E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CCADDA71F634C5F00B1B7E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +49,9 @@
 		7CCADDAC1F634C5F00B1B7E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CCADDAF1F634C5F00B1B7E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CCADDB11F634C5F00B1B7E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CCADDB71F63544400B1B7E2 /* RecordSoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordSoundsViewController.swift; sourceTree = "<group>"; };
+		7CCADDB91F63550300B1B7E2 /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
+		7CCADDBB1F63586900B1B7E2 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +65,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7C3C85111F664E20006760BD /* Sound clips */ = {
+			isa = PBXGroup;
+			children = (
+				7C3C850F1F664DDB006760BD /* Danya1.mp3 */,
+				7C3C85121F66511B006760BD /* Danya2.mp3 */,
+				7C3C85131F66511B006760BD /* Danya3.mp3 */,
+				7C3C85141F66511B006760BD /* Danya4.mp3 */,
+				7C3C85151F66511B006760BD /* Danya5.mp3 */,
+				7C3C85161F66511B006760BD /* Danya6.mp3 */,
+				7C3C852A1F6B9015006760BD /* Danya7.mp3 */,
+				7C3C85281F6B8FB8006760BD /* Danya8.mp3 */,
+				7C3C852E1F6BB860006760BD /* Danya9.mp3 */,
+			);
+			name = "Sound clips";
+			sourceTree = "<group>";
+		};
 		7CCADD991F634C5E00B1B7E2 = {
 			isa = PBXGroup;
 			children = (
@@ -55,8 +101,15 @@
 			isa = PBXGroup;
 			children = (
 				7CCADDA51F634C5F00B1B7E2 /* AppDelegate.swift */,
+				7CCADDB71F63544400B1B7E2 /* RecordSoundsViewController.swift */,
+				7CCADDBB1F63586900B1B7E2 /* PlaySoundsViewController.swift */,
+				7CCADDB91F63550300B1B7E2 /* RecordedAudio.swift */,
 				7CCADDA71F634C5F00B1B7E2 /* ViewController.swift */,
 				7CCADDA91F634C5F00B1B7E2 /* Main.storyboard */,
+				7C3C852C1F6B96D7006760BD /* DanyaMadnessViewController.swift */,
+				7C3C850A1F664816006760BD /* SoundboardViewController.swift */,
+				7C3C851C1F6B7AFF006760BD /* CustomTitleLabel.swift */,
+				7C3C85111F664E20006760BD /* Sound clips */,
 				7CCADDAC1F634C5F00B1B7E2 /* Assets.xcassets */,
 				7CCADDAE1F634C5F00B1B7E2 /* LaunchScreen.storyboard */,
 				7CCADDB11F634C5F00B1B7E2 /* Info.plist */,
@@ -96,6 +149,7 @@
 				TargetAttributes = {
 					7CCADDA11F634C5F00B1B7E2 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = ZBWTNC9BAL;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,8 +177,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C3C85291F6B8FB8006760BD /* Danya8.mp3 in Resources */,
 				7CCADDB01F634C5F00B1B7E2 /* LaunchScreen.storyboard in Resources */,
+				7C3C85191F66511B006760BD /* Danya4.mp3 in Resources */,
+				7C3C852F1F6BB860006760BD /* Danya9.mp3 in Resources */,
+				7C3C851A1F66511B006760BD /* Danya5.mp3 in Resources */,
+				7C3C852B1F6B9015006760BD /* Danya7.mp3 in Resources */,
 				7CCADDAD1F634C5F00B1B7E2 /* Assets.xcassets in Resources */,
+				7C3C85171F66511B006760BD /* Danya2.mp3 in Resources */,
+				7C3C85101F664DDB006760BD /* Danya1.mp3 in Resources */,
+				7C3C85181F66511B006760BD /* Danya3.mp3 in Resources */,
+				7C3C851B1F66511B006760BD /* Danya6.mp3 in Resources */,
 				7CCADDAB1F634C5F00B1B7E2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,7 +199,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CCADDBA1F63550300B1B7E2 /* RecordedAudio.swift in Sources */,
+				7CCADDB81F63544400B1B7E2 /* RecordSoundsViewController.swift in Sources */,
+				7C3C850B1F664816006760BD /* SoundboardViewController.swift in Sources */,
 				7CCADDA81F634C5F00B1B7E2 /* ViewController.swift in Sources */,
+				7CCADDBC1F63586900B1B7E2 /* PlaySoundsViewController.swift in Sources */,
+				7C3C851D1F6B7AFF006760BD /* CustomTitleLabel.swift in Sources */,
+				7C3C852D1F6B96D7006760BD /* DanyaMadnessViewController.swift in Sources */,
 				7CCADDA61F634C5F00B1B7E2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,6 +331,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZBWTNC9BAL;
 				INFOPLIST_FILE = "The Danya App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GershyLev.The-Danya-App";
@@ -274,6 +344,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZBWTNC9BAL;
 				INFOPLIST_FILE = "The Danya App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.GershyLev.The-Danya-App";
@@ -301,6 +372,7 @@
 				7CCADDB61F634C5F00B1B7E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
